@@ -1,0 +1,23 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: orange; 
+}
+
+.heading_div{
+    background: green;
+    color: white;
+}
+
+.heading_div img{
+ width: 100px;
+}
+
+.copy_right_footer{
+    position :fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: darkmagenta;
+    line-height: 3;
+    text-align: center;
+}
